@@ -53,4 +53,5 @@ def puzzle2():
         game = Game(item)
         power_sum += game.red * game.green * game.blue
     return power_sum
+
 print(puzzle2())

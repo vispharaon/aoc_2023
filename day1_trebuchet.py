@@ -1,4 +1,4 @@
-f = open("input.txt", "r")
+f = open("input1.txt", "r")
 items = f.read()
 
 def part1(items):

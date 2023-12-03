@@ -1,3 +1,6 @@
+# Set SPECIAL_CHARS for puzzle1
+# Set SPECIAL_CHARS_2 for puzzle2
+
 SPECIAL_CHARS = "-@#$%&*=+/"
 SPECIAL_CHARS_2 = "*"
 
