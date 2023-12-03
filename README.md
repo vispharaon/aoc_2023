@@ -1,6 +1,6 @@
-## Tested with python version 3.12.0
+### Tested with python version 3.12.0
 
-## Prepare solution by putting input in correct txt file.
+### Prepare solution by putting input in correct txt file.
 
 Run:
 
